@@ -2,10 +2,10 @@
 
 ## Student Information
 
-- Student name:
-- Week:
-- Lab:
-- Date:
+- Student name: Charles Trumper
+- Week: 10
+- Lab: 2
+- Date: 10/30/26
 
 ## AI Use
 
